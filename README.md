@@ -11,4 +11,4 @@ This projects contains all the msbte diploma computer engineering's micro-projec
 | 01.   | DTE micro-project  |
 | 02.   | OOPS micro-project |
 
-|
+
