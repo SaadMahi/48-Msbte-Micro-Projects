@@ -1,0 +1,59 @@
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\bin\Debug\Micro-project.exe.config
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\bin\Debug\Micro-project.exe
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\bin\Debug\Micro-project.pdb
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\bin\Debug\Micro-project.xml
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\obj\Debug\Micro_project.AddContacts.resources
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\obj\Debug\Micro_project.Main.resources
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\obj\Debug\Micro_project.Resources.resources
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\obj\Debug\Micro-project.vbproj.GenerateResource.cache
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\obj\Debug\Micro-project.vbproj.CoreCompileInputs.cache
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\obj\Debug\Micro-project.exe
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\obj\Debug\Micro-project.xml
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\obj\Debug\Micro-project.pdb
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\bin\Debug\Contacts.mdf
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\bin\Debug\Contacts_log.ldf
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\obj\Debug\Micro_project.ViewContacts.resources
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\obj\Debug\Micro_project.LoadingForm.resources
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\obj\Debug\Micro_project.Closing.resources
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\obj\Debug\Micro_project.Edit.resources
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\obj\Debug\Micro-project.vbproj.AssemblyReference.cache
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\bin\Debug\Micro-project.exe.manifest
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\bin\Debug\Micro-project.application
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\obj\Debug\Micro-project.exe.manifest
+D:\Projects\Programs\4th sem\GAD\Contact management system\Micro-project\obj\Debug\Micro-project.application
+C:\Users\Admin\Downloads\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro-project.vbproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro-project.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro_project.AddContacts.resources
+C:\Users\Admin\Downloads\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro_project.Closing.resources
+C:\Users\Admin\Downloads\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro_project.Edit.resources
+C:\Users\Admin\Downloads\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro_project.LoadingForm.resources
+C:\Users\Admin\Downloads\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro_project.Main.resources
+C:\Users\Admin\Downloads\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro_project.ViewContacts.resources
+C:\Users\Admin\Downloads\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro-project.vbproj.GenerateResource.cache
+C:\Users\Admin\Downloads\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro-project.exe
+C:\Users\Admin\Downloads\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro-project.xml
+C:\Users\Admin\Downloads\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro-project.pdb
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\GAD\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro-project.vbproj.AssemblyReference.cache
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\GAD\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro-project.vbproj.SuggestedBindingRedirects.cache
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\GAD\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro_project.AddContacts.resources
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\GAD\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro_project.Closing.resources
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\GAD\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro_project.Edit.resources
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\GAD\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro_project.LoadingForm.resources
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\GAD\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro_project.Main.resources
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\GAD\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro_project.ViewContacts.resources
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\GAD\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro-project.vbproj.GenerateResource.cache
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\GAD\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro-project.exe
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\GAD\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro-project.xml
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\GAD\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro-project.pdb
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\4th-sem\GAD\GAD-microproject\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro-project.vbproj.AssemblyReference.cache
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\4th-sem\GAD\GAD-microproject\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro-project.vbproj.SuggestedBindingRedirects.cache
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\4th-sem\GAD\GAD-microproject\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro_project.AddContacts.resources
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\4th-sem\GAD\GAD-microproject\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro_project.Closing.resources
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\4th-sem\GAD\GAD-microproject\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro_project.Edit.resources
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\4th-sem\GAD\GAD-microproject\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro_project.LoadingForm.resources
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\4th-sem\GAD\GAD-microproject\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro_project.Main.resources
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\4th-sem\GAD\GAD-microproject\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro_project.ViewContacts.resources
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\4th-sem\GAD\GAD-microproject\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro-project.vbproj.GenerateResource.cache
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\4th-sem\GAD\GAD-microproject\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro-project.exe
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\4th-sem\GAD\GAD-microproject\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro-project.xml
+H:\MAINNNNNNNNNNNNNNNNNN\college activities\4th-sem\GAD\GAD-microproject\contact-book-system-main\contact-book-system-main\Micro-project\obj\Debug\Micro-project.pdb
