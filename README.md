@@ -17,9 +17,4 @@ This projects contains all the msbte diploma computer engineering's micro-projec
 | 02.   | GAD microproject   |
 | 03.   | SEN micro-project  |
 | 04.   | MIC micro-project  |
-
-
-
-
-
-
+| 05.   | JAVA micro-project |
